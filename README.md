@@ -1,3 +1,4 @@
+# beePj
 #基于beego框架的一个简易restful api请求应用框架
 
 目前实现功能
@@ -10,4 +11,5 @@
 @version v1.0.0
 @time 2018/09/06
 @author weisenK
-@mail 478127880@qq.com# beePj
+@mail 478127880@qq.com
+
